@@ -3,6 +3,7 @@
 ## Schematic
 ![Schematic](/docs/images/0opDRO_schematic.svg)
 You can [DOWNLOAD HERE](1-Schematic_0opDRO.json) schematic in format easyeda.com (json format)
+Resistors R15, R16, R22, R24 are optional, and they are used with ESP32 and non-optical/magnetic scale.
 
 ## Board
 ![Board](/docs/images/0opDRO_board.jpg)
