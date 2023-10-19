@@ -1,4 +1,4 @@
-# 0-operetor 0opDRO
+# 0-operator 0opDRO
 
 This is the hardware and firmware for a TouchDRO interface. 
 Use a STM32F411 board ("blackpill") with a Bluetooth module (HC-05).
